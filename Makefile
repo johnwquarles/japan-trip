@@ -89,7 +89,7 @@ devserver:
 ifdef PORT
 	$(BASEDIR)/develop_server.sh restart $(PORT)
 else
-	$(BASEDIR)/develop_server.sh restart
+	$(BASEDIR)/develop_server.sh restart 2018
 endif
 
 stopserver:

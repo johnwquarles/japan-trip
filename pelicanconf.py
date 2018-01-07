@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'john.w.quarles@gmail.com'
-SITENAME = 'japan-trip'
+AUTHOR = 'JQ'
+SITENAME = 'Japan Trip 2018'
 SITEURL = 'http://quarl.es/japan-trip'
 
 PATH = 'content'
@@ -11,6 +11,11 @@ PATH = 'content'
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
+DEFAULT_DATE_FORMAT = '%-m/%-d/%Y'
+
+DEFAULT_CATEGORY = 'general'
+DISPLAY_PAGES_ON_MENU = True
+THEME = 'notmyidea'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -19,15 +24,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+LINKS = (
+  ('Reddit - Japan Travel Advice Wiki', 'https://www.reddit.com/r/JapanTravel/wiki/traveladvice'),
+  ('Reddit - Japan Travel Advice FAQ', 'https://www.reddit.com/r/JapanTravel/wiki/faqs/japantravel'),
+)
 
 DEFAULT_PAGINATION = 10
 

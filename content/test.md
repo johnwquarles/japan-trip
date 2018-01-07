@@ -6,3 +6,6 @@ Category: Test
 ### Is this working?
 
 # Does the publish script also build?
+
+that's great
+this is too
