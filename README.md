@@ -15,6 +15,9 @@
 > - Run `make devserver` from the root directory (this will start the dev server, watch for changes & rebuilt output files).
 > - Head to `localhost:2018` in your browser.
 
+### Stop the Dev Server (it runs in the background until you access the page)
+> - Run `make stopserver`
+
 # To Publish:
 
 Run `make github` from the root directory.

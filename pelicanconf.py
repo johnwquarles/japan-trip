@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'JQ'
 SITENAME = 'Japan Trip 2018'
 SITEURL = 'http://quarl.es/japan-trip'
+STATIC_PATHS = ['images', 'pdfs']
 
 PATH = 'content'
 
