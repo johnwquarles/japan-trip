@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>japan-trip</title><link href="http://quarl.es/japan-trip/" rel="alternate"></link><link href="http://quarl.es/japan-trip/feeds/all.atom.xml" rel="self"></link><id>http://quarl.es/japan-trip/</id><updated>2018-01-07T15:51:00-06:00</updated><entry><title>Test Upload</title><link href="http://quarl.es/japan-trip/test-upload.html" rel="alternate"></link><published>2018-01-07T15:51:00-06:00</published><updated>2018-01-07T15:51:00-06:00</updated><author><name>john.w.quarles@gmail.com</name></author><id>tag:quarl.es,2018-01-07:/japan-trip/test-upload.html</id><summary type="html">&lt;h1&gt;Test Upload.&lt;/h1&gt;
+&lt;h3&gt;Is this working?&lt;/h3&gt;
+&lt;h1&gt;Does the publish script also build?&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;Test Upload.&lt;/h1&gt;
+&lt;h3&gt;Is this working?&lt;/h3&gt;
+&lt;h1&gt;Does the publish script also build?&lt;/h1&gt;</content></entry></feed>
