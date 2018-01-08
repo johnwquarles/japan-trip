@@ -9,6 +9,7 @@
 > - Add a markdown file (or edit one) within the `/content` directory.
 > - Make a PR.
 > - Tell JQ to merge & publish.
+> - Or have yourself added as a contributor and merge & publish yourself.
 
 ### Preview Locally
 
