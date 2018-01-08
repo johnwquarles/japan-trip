@@ -10,6 +10,16 @@
 > - Make a PR.
 > - Tell JQ to merge & publish.
 > - Or have yourself added as a contributor and merge & publish yourself.
+> - You can label yourself as the author of a particular article by including that info in its metadata:
+
+```
+Title: An Article
+Date: 2018-1-07 22:00
+Category: general
+Cover: images/header_image.jpg
+Author: someone else
+```
+And feel free to add yourself to the `AUTHORS_BIO` (add a key/value pair) section of `pelicanconf.py`. Note that the key _must be in lowercase_.
 
 ### Preview Locally
 
