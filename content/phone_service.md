@@ -9,7 +9,7 @@ In considering your options, an important first step is to figure out is whether
 
 It turns out, for example, that the plan I use (T-mobile Simple Choice North America) allows for free data roaming (but not calls) in Japan. I had no idea.
 
-![Covered in Japan](images/tmobile-roaming.png)
+![Covered in Japan](images/tmobile-roaming.png "simple choice north america: use it in japan")
 
 _However_, that data comes _at 2G speeds_, and I'm going to be using my phone to get train directions, etc. So 2G isn't going to cut it.
 
@@ -17,7 +17,7 @@ As such,
 
 ### I went ahead and arranged to rent some things.
 
-- **Pocket Wifi** (LTE speed, unlimited data, up to 10 connected devices, 7 days, will pick up in airport upon arrival). ![Pocket Wifi](images/mifi.png)
+- **Pocket Wifi** (LTE speed, unlimited data, up to 10 connected devices, 7 days, will pick up in airport upon arrival). ![Pocket Wifi](images/mifi.png "you can watch tv on it??")
 
 [Check product details here](http://japan-wireless.com/products.html) (it's the "Premium Wi-Fi" device.)
 
@@ -29,7 +29,7 @@ It came to $60 for the week. Since we'll be sharing it,
 
 In addition to the pocket wifi, I arranged (also through [japan-wireless.com](http://japan-wireless.com)) to rent:
 
-- a **prepaid SIM card** (Docomo network**, 500mb/day at LTE speed, unlimited slowness thereafter, 7 days). ![sim card](images/simcard.png)
+- a **prepaid SIM card** (Docomo network**, 500mb/day at LTE speed, unlimited slowness thereafter, 7 days). ![sim card](images/simcard.png "i wonder if you'd ever use this without removing the sim card? that bottom left triangle makes u think")
 
 I figure that it'll be more convenient than using the pocket wifi while out & about, and it isn't particularly expensive ($30).
 

@@ -9,7 +9,7 @@ If you forget or get something wrong, you'll be fine. This list tops out at _fau
 
 > Won't happen much when out shopping, but when entering a home or anywhere you see one of these raised areas (_genkan_):
 
-![Genkan](images/genkan.jpg)
+![Genkan](images/genkan.jpg "what's up with that stool")
 
 > Take your shoes off. There might be lockers for your shoes if you're entering a restaurant, or if it's a home, there might be a rack, or you might just turn your shoes around and rest them under the ledge. 
 And I dunno where the slippers will be, but wear them.
@@ -26,7 +26,7 @@ And I dunno where the slippers will be, but wear them.
 
 - _**Put money in the tray when checking out**_
 
-![Put Money Here](images/kaikei.jpg)
+![Put Money Here](images/kaikei.jpg "money. tray. i have nothing to add to this")
 
 > People don't generally pass money directly from hand to hand when checking out.
 
@@ -36,7 +36,7 @@ And I dunno where the slippers will be, but wear them.
 
 - _**Wait for passengers to exit train before entering**_
 
-![A Train](images/train.jpg)
+![A Train](images/train.jpg "i dunno where this is but the ppl seem blurry")
 
 > Probably common sense if you've lived in an area with mass transit before.
 
@@ -56,7 +56,7 @@ And I dunno where the slippers will be, but wear them.
 
 - _**Separate your trash**_
 
-![Trash](images/trash.jpg)
+![Trash](images/trash.jpg "trash menu")
 
 > In public places this will probably be pretty easy since the bins will be labeled (note, though, that there are _barely any trashcans anywhere_ in public, compared to the US).
 
